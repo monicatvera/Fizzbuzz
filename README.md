@@ -6,11 +6,11 @@ What we are going to do is create a pure function that transforms the numbers to
 ## Test list
   Before facing the implementation of the problem, the first thing we are going to do is a list of tests to be clear about the different cases that we must take into account.
 
-  - [ ] For the number 1 the result must be "1".
-  - [ ] For number 3 the result should be "fizz"
-  - [ ] For number 5 the result should be "buzz"
-  - [ ] For number 15 the result should be “fizzbuzz”
-  - [ ] For any number divisible by 3 the result must be "fizz"
-  - [ ] For any number divisible by 5 the result must be "buzz"
-  - [ ] For any number divisible by 15 the result must be "fizzbuzz"
-  - [ ] For the rest of the numbers the result should be the received number itself
+  - [x] For the number 1 the result must be "1".
+  - [x] For number 3 the result should be "fizz"
+  - [x] For number 5 the result should be "buzz"
+  - [x] For number 15 the result should be “fizzbuzz”
+  - [x] For any number divisible by 3 the result must be "fizz"
+  - [x] For any number divisible by 5 the result must be "buzz"
+  - [x] For any number divisible by 15 the result must be "fizzbuzz"
+  - [x] For the rest of the numbers the result should be the received number itself
